@@ -1,0 +1,5 @@
+export const updateQA="/app/updateQA"
+export const getQAByID="/app/getQA"
+export const getALLQA="/app/allQA"
+export const addQA="/app/addQA"
+export const deleteQA="/app/deleteQA"
